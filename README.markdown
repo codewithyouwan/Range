@@ -62,16 +62,13 @@ The `train` method in the `LSTM` class:
 The project also demonstrates loading a pre-trained model and making predictions, as shown in the final code cell.
 
 ## Installation
-
-See Installation.markdown for detailed instructions on setting up the project.
+See [Installation.md](Installation.markdown) for detailed instructions on setting up the project.
 
 ## Usage
-
-See Usage.markdown for instructions on how to use the project, including data preparation, initializing the Data class, training/loading the model, and making predictions.
+See [Usage.md](Usage.markdown) for instructions on how to use the project.
 
 ## Dependencies
-
-See Dependencies.markdown for a list of required Python libraries and their versions.
+See [Dependencies.md](Dependencies.markdown) for a list of required Python libraries and their versions.
 
 ## Conclusion
 
